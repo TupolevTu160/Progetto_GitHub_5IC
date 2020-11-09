@@ -12,7 +12,7 @@ func retint(x float64, y float64, z float64, q float64, t float64) (int, int, in
 }
 
 func main() {
-	var a float64 = 7.431
+	var auouououo float64 = 7.431
 	var b float64 = 2.357
 	var c float64 = 0.231
 	var d float64 = 1.853
