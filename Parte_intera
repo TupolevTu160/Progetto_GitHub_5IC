@@ -6,7 +6,7 @@ func retint(x float64, y float64, z float64, q float64, t float64) (int, int, in
 	var a int = int(x)
 	var b int = int(y)
 	var c int = int(z)
-	var d int = int(q)
+	var f int= int(z)
 	var e int = int(t)
 	return a, b, c, d, e
 }
