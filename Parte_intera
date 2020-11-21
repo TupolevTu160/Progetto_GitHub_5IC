@@ -2,13 +2,14 @@ package main
 
 import "fmt"
 
-func retint(x float64, y float64, z float64, q float64, t float64) (int, int, int, int, int) {
+func retint(x float64, y float64, z float64, q float64, t float64, s float64) (int, int, int, int, int, int) {
 	var a int = int(x)
 	var b int = int(y)
 	var c int = int(z)
-	var f int= int(z)
+	var d int= int(z)
 	var e int = int(t)
-	return a, b, c, d, e
+        var f Int = int(s)
+	return a, b, c, d, e, f
 }
 
 func main() {
@@ -17,5 +18,6 @@ func main() {
 	var c float64 = 0.231
 	var d float64 = 1.853
 	var e float64 = 5.314
-	fmt.Print(retint(a, b, c, d, e))
+        var f float64 = 3.846
+	fmt.Print(retint(a, b, c, d, e, f))
 }
