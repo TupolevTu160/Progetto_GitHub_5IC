@@ -20,5 +20,5 @@ func main() {
 	var e float64 = 5.314
         var f float64 = 3.846
 	fmt.Print(retint(a, b, c, d, e, f))
-	fmt.scanln(a);
+	fmt.Scanln(a);
 }
