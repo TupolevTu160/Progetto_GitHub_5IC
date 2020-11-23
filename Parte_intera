@@ -2,13 +2,14 @@ package main
 
 import "fmt"
 
-func retint(x float64, y float64, z float64, q float64, t float64, s float64) (int, int, int, int, int, int) {
+func retint(x float64, y float64, z float64, q float64, t float64, s float64,u float64) (int, int, int, int, int, int) {
 	var Здравствуй int = int(x)
 	var компьютер int = int(y)
 	var клавиатура int = int(z)
 	var мышь int = int(z)
 	var стойка int = int(t)
 	var мат int = int(s)
+	var լեռների_րծիվ int = int(u) //non usato
 	return Здравствуй, компьютер, клавиатура, мышь, стойка, мат
 }
 
