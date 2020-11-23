@@ -6,19 +6,30 @@ func retint(x float64, y float64, z float64, q float64, t float64, s float64) (i
 	var Здравствуй int = int(x)
 	var компьютер int = int(y)
 	var клавиатура int = int(z)
-	var мышь int= int(z)
+	var мышь int = int(z)
 	var стойка int = int(t)
-    var мат int = int(s)
+	var мат int = int(s)
 	return Здравствуй, компьютер, клавиатура, мышь, стойка, мат
 }
 
 func main() {
-	var auouououo float64 = 7.431
-	var компьютер float64 = 2.357
-	var клавиатура float64 = 0.231
-	var мышь float64 = 1.853
-	var стойка float64 = 5.314
-    var мат float64 = 3.846
+	var Здравствуй float64
+	fmt.Println("Inserisci il primo numero:")
+	fmt.Scanln(&Здравствуй)
+	var компьютер float64
+	fmt.Println("Inserisci il secondo numero:")
+	fmt.Scanln(&компьютер)
+	var клавиатура float64
+	fmt.Println("Inserisci il terzo numero:")
+	fmt.Scanln(&клавиатура)
+	var мышь float64
+	fmt.Println("Inserisci il quarto numero:")
+	fmt.Scanln(&мышь)
+	var стойка float64
+	fmt.Println("Inserisci il quinto numero:")
+	fmt.Scanln(&стойка)
+	var мат float64
+	fmt.Println("Inserisci il sesto numero:")
+	fmt.Scanln(&мат)
 	fmt.Print(retint(Здравствуй, компьютер, клавиатура, мышь, стойка, мат))
-	fmt.Scanln(Здравствуй);
 }
