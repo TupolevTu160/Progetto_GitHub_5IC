@@ -1,10 +1,11 @@
-# Progetto_GitHub_5IC
+# OBIETTIVI:
 
-OBIETTIVI:
- 
 --> Implementare controllo di lettere e caratteri estranei ai numeri -------------OK
+
 --> Implementare una matrice attraverso l'utilizzo di vettori
+
 --> Implementare controlli di inserimento (avvisando l'utente di aver inserito una lettera e invitarlo a mettere numeri)
+
 --> Implementare la grafica del sistema, migliorando l'interfaccia utente
 
 
