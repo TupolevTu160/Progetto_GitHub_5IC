@@ -2,7 +2,7 @@
 
 --> Implementare controllo di lettere e caratteri estranei ai numeri -------------OK
 
---> Implementare una matrice attraverso l'utilizzo di vettori
+--> Implementare una matrice attraverso l'utilizzo di vettori -----------------OK
 
 --> Implementare controlli di inserimento (avvisando l'utente di aver inserito una lettera e invitarlo a mettere numeri)
 
