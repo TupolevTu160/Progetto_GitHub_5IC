@@ -4,7 +4,7 @@
 
 --> Implementare una matrice attraverso l'utilizzo di vettori -----------------OK
 
---> Implementare controlli di inserimento (avvisando l'utente di aver inserito una lettera e invitarlo a mettere numeri) 
+--> Implementare controlli di inserimento (avvisando l'utente di aver inserito una lettera e invitarlo a mettere numeri) ----------OK
 
 --> Implementare la grafica del sistema, migliorando l'interfaccia utente  ----------OK
 
