@@ -152,7 +152,7 @@ namespace Produttore_consumatore
 
         private void txt_consumatore_KeyPress(object sender, KeyPressEventArgs e)
         {
-            if (char.IsLetter(e.KeyChar)) //bastava cambiare la funzione utilizzata
+            if (char.IsLetter(e.KeyChar)) //basta cambiare la funzione utilizzata
             {
                 e.Handled = true;
                 //txt_produttore.Clear();
@@ -297,7 +297,7 @@ namespace Produttore_consumatore
 //----------------------------------------------EVENTI PER I CONTROLLI--------------------------------------------------
         private void txt_costo1_KeyPress(object sender, KeyPressEventArgs e)
         {
-            if (char.IsLetter(e.KeyChar)) //bastava cambiare la funzione utilizzata
+            if (char.IsLetter(e.KeyChar)) //basta cambiare la funzione utilizzata
             {
                 e.Handled = true;
                 //txt_produttore.Clear();
@@ -306,7 +306,7 @@ namespace Produttore_consumatore
 
         private void txt_costo2_KeyPress(object sender, KeyPressEventArgs e)
         {
-            if (char.IsLetter(e.KeyChar)) //bastava cambiare la funzione utilizzata
+            if (char.IsLetter(e.KeyChar)) //basta cambiare la funzione utilizzata
             {
                 e.Handled = true;
                 //txt_produttore.Clear();
@@ -315,7 +315,7 @@ namespace Produttore_consumatore
 
         private void txt_pro1_KeyPress(object sender, KeyPressEventArgs e)
         {
-            if (char.IsLetter(e.KeyChar)) //bastava cambiare la funzione utilizzata
+            if (char.IsLetter(e.KeyChar)) //basta cambiare la funzione utilizzata
             {
                 e.Handled = true;
                 //txt_produttore.Clear();
@@ -324,7 +324,7 @@ namespace Produttore_consumatore
 
         private void txt_pro2_KeyPress(object sender, KeyPressEventArgs e)
         {
-            if (char.IsLetter(e.KeyChar)) //bastava cambiare la funzione utilizzata
+            if (char.IsLetter(e.KeyChar)) //basta cambiare la funzione utilizzata
             {
                 e.Handled = true;
                 //txt_produttore.Clear();
@@ -333,7 +333,7 @@ namespace Produttore_consumatore
 
         private void txt_produttore_KeyPress_1(object sender, KeyPressEventArgs e)
         {
-            if (char.IsLetter(e.KeyChar)) //bastava cambiare la funzione utilizzata
+            if (char.IsLetter(e.KeyChar)) //basta cambiare la funzione utilizzata
             {
                 e.Handled = true;
                 //txt_produttore.Clear();
