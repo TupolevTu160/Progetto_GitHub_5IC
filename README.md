@@ -8,7 +8,7 @@
 
 --> Implementare la grafica del sistema, migliorando l'interfaccia utente  ----------OK
 
---> Completamento 100%
+--> Completamento ----------------- 100%
 
 TUTTI:  Controllare il codice e cercare di capirlo e aggiungere commenti in caso di modifiche aggiuntive agli obiettivi.
         Indicare inoltre come nel primo punto un "OK" se si completa un obiettivo.
