@@ -9,7 +9,7 @@ namespace Produttore_consumatore
     static class Program
     {
         /// <summary>
-        /// Punto di ingresso principale dell'applicazione.
+        /// Punto d'ingresso principale dell'applicazione.
         /// </summary>
         [STAThread]
         static void Main()
