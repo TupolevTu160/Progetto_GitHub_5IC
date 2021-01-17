@@ -8,9 +8,9 @@
         private System.ComponentModel.IContainer components = null;
 
         /// <summary>
-        /// Pulire le risorse in uso.
+        /// Pulizia delle risorse in uso.
         /// </summary>
-        /// <param name="disposing">ha valore true se le risorse gestite devono essere eliminate, false in caso contrario.</param>
+        /// <param name="disposing">ha valore true se le risorse gestite devono essere eliminate, ha valore false in caso contrario.</param>
         protected override void Dispose(bool disposing)
         {
             if (disposing && (components != null))
@@ -24,7 +24,7 @@
 
         /// <summary>
         /// Metodo necessario per il supporto della finestra di progettazione. Non modificare
-        /// il contenuto del metodo con l'editor di codice.
+        /// il contenuto del metodo con l'editor di codice! 
         /// </summary>
         private void InitializeComponent()
         {
